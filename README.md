@@ -1,4 +1,4 @@
-# Galgje – Git Collaboration
+# Yehor – Git Collaboration
 
 **Team:** <The best team>  
 **Spelvolgorde & contact:**
@@ -11,9 +11,9 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | . | . | . | . | . | . | . | . | . | . | . |
-| - | - | - | - | - | - | - | - | - | - | - | - |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| . | . | . | . | . | . | . | . | . | . |
+| - | - | - | - | - | - | - | - | - | - |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 
 
 ## Status
 ![status](images/1.png)
