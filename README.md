@@ -21,6 +21,30 @@
 ---
 
 ## Beurtenlog
-- (Git-master vult hier reactie in: goed/fout + updates)
-- beurt2: ...
+### Beurt van Collaborator 1
+- **beurt1:** Yehor `"A"`  
+- Correct: geplaatst op positie 1  
+- Statusafbeelding: ![status](images/image2.png)
+
+### Beurt van Collaborator 2
+- **beurt2:** Maxim `"E"`  
+- Correct: geplaatst op positie 5  
+- Statusafbeelding: ![status](images/image3.png)
+
+### Beurt van Collaborator 3
+- **beurt3:** Nikita gokt letter `"O"`  
+- Fout: letter komt niet voor in het woord  
+- Statusafbeelding: ![status](images/image4.png)
+
+### Beurt van Collaborator 4
+- **beurt4:** Timothy gokt letter `"I"`  
+- Fout: letter komt niet voor in het woord  
+- Statusafbeelding: ![status](images/image5.png)
+
+---
+
+##  Einde van het spel
+Het spel gaat door totdat:
+-  Het woord volledig geraden is (alle letters ingevuld), 
+-  Git Master plaatst de laatste afbeelding:
 
